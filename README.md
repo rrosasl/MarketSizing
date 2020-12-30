@@ -1,4 +1,7 @@
-# MarketSizing
+# MarketSizing using Monte Carlo and Python
+Please let me know if you EVER use this or want my help on adapting the code 
+Email rrosasl@gmail.com
+
 Market Sizing is an excercise in which we try to estimate the total the yearly revenues of an industry or company per year in a currency (e.g. USD / EUR / CHF). We can do this by having a structured process; for example: multiplying the total quantity sold per year by the average price.
 
 We may not know in advance what are the values behind the assumptions (e.g. how many items are sold per year). Usually, we solve this by making reasonable assumptions or educated guesses that gives us an indicative value. Although that's a good starting point, it misses completely the uncertainty. With imperfect information, there will never be a single number, but rather a reasonable range in which the true value may lie; and some assumptions may have a larger impact than others, either by its role in the model or by the uncertainty. That is what we will address here.
